@@ -13,7 +13,11 @@ My advice for running the notebook, is to create an account on DataBricks, load 
 ### Brief Summary
 The PageRank algorithm outputs a probability distribution used to represent the likelihood that a person randomly clicking on links will arrive at any particular page. PageRank can be calculated for collections of documents of any size. It is assumed in several research papers that the distribution is evenly divided among all documents in the collection at the beginning of the computational process. The PageRank computations require several passes, called “iterations”, through the collection to adjust approximate PageRank values to more closely reflect the theoretical true value.
 
-![alt_text](https://imgr.search.brave.com/_WnLnLT7yMNqv0EQMJ7VbWrRI77-rWLtx2YhCDwdTlI/fit/500/403/ce/1/aHR0cDovL3d3dy5k/aWFsbWUuY29tL2Js/b2cvd3AtY29udGVu/dC91cGxvYWRzLzIw/MTEvMDYvcGFnZXJh/bmsyLmpwZw)
+<p align="center">
+  <img src="https://imgr.search.brave.com/_WnLnLT7yMNqv0EQMJ7VbWrRI77-rWLtx2YhCDwdTlI/fit/500/403/ce/1/aHR0cDovL3d3dy5k/aWFsbWUuY29tL2Js/b2cvd3AtY29udGVu/dC91cGxvYWRzLzIw/MTEvMDYvcGFnZXJh/bmsyLmpwZw" alt="Sublime's custom image"/>
+</p>
+
+![alt_text]()
 
 ### Resources
 
